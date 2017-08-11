@@ -7,10 +7,12 @@ Apuntes y ejemplos de Javascript.
 > Para una consulta en mayor profundidad, consultar los enlaces que se proporcionan como referencias. 
 
 - [INTRODUCCIÓN](01.INTRODUCCION.md)
-- [SINTAXIS](02.SINTAXIS.md)
-
-
-
+- [SINTAXIS BÁSICA](02.SINTAXIS.md)
+- [FUNCIONES](03.FUNCIONES.md)
+- [ARRAYS](04.ARRAYS.md)
+- [OBJETOS](05.OBJETOS.md)
+- [DOM](06.DOM.md)
+- [CARACTERÍSTICAS AVANZADAS](08.PLUS.md)
 
 ## Referencias
 
