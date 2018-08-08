@@ -11,7 +11,8 @@ Apuntes y ejemplos de Javascript.
 - [FUNCIONES](03.FUNCIONES.md)
 - [ARRAYS](04.ARRAYS.md)
 - [OBJETOS](05.OBJETOS.md)
-- [CARACTERÍSTICAS AVANZADAS](06.PLUS.md)
+- [EVENTOS](06.EVENTOS.md)
+- [OTRAS CARACTERÍSTICAS](07.PLUS.md)
 
 ## Referencias
 
