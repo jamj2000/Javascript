@@ -16,6 +16,7 @@ Apuntes y ejemplos de Javascript.
 
 ## Referencias
 
+- [Introducción a Javascript](http://librosweb.es/libro/javascript/)
 - [Tutorial de W3SCHOOLS](https://www.w3schools.com/js)
 - [Referencia de W3SCHOOLS](https://www.w3schools.com/jsref)
 - [Documentación en Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
