@@ -12,7 +12,8 @@ Apuntes y ejemplos de Javascript.
 - [ARRAYS](04.ARRAYS.md)
 - [OBJETOS](05.OBJETOS.md)
 - [EVENTOS](06.EVENTOS.md)
-- [OTRAS CARACTERÍSTICAS](07.PLUS.md)
+- [AJAX](07.AJAX.md)
+- [BIBLIOTECAS](08.BIBLIOTECAS.md)
 
 ## Referencias
 
