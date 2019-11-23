@@ -21,5 +21,6 @@ Apuntes y ejemplos de Javascript.
 - [Documentación en Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Tutorial de W3SCHOOLS](https://www.w3schools.com/js)
 - [Referencia de W3SCHOOLS](https://www.w3schools.com/jsref)
+- [State of Javascript](https://2018.stateofjs.com/es/)
 
 
