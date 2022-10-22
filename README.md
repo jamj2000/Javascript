@@ -13,7 +13,8 @@ Apuntes y ejemplos de Javascript.
 - [OBJETOS](05.OBJETOS.md)
 - [EVENTOS](06.EVENTOS.md)
 - [AJAX](07.AJAX.md)
-- [BIBLIOTECAS](08.BIBLIOTECAS.md)
+- [APIS](08.APIS.md)
+- [BIBLIOTECAS](09.BIBLIOTECAS.md)
 
 ## Referencias
 
